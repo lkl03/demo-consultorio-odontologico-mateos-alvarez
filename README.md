@@ -1,2 +1,7 @@
-# demo-consultorio-odontologico-mateos-alvarez
-Demo web para Consultorio Odontologico Mateos Alvarez — diseñada por eterlab.
+# Consultorio Odontologico Mateos Alvarez
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
